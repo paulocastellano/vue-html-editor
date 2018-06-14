@@ -44,3 +44,7 @@ If you need callback for save text in editor use debounce.
     }, 500),  
   }
 ```
+
+### Visual
+![Vue Wysiwyg Editor](https://user-images.githubusercontent.com/265964/41421222-a7d6c8d8-6fcc-11e8-87e0-40dd2b6504dd.png "Vue Wysiwyg Editor")
+
